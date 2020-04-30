@@ -31,7 +31,6 @@ using namespace std;
 int n;
 int ans;
 int a[MAX][MAX];
-int temp[MAX][MAX]; //여기에 선언
 bool visit[MAX][MAX];
 
 void move(int dir){
